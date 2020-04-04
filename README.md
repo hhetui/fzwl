@@ -1,5 +1,5 @@
-# -
-复杂网络代码
+# 第二次作业代码
+
 plot_nw.m是生成最近邻耦合网络的MATLAB代码
 
 plot_zjl.m是生成NW网络的MATLAB代码
